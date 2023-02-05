@@ -13,31 +13,31 @@ There is no goal to list the *sources* of media for immersion.
 - [GoldenDict](https://github.com/xiaoyifang/goldendict) — actively maintained fork of GoldenDict, supporting multiple dictionary formats (StarDict, Babylon, Lingvo, Dictd) and online dictionaries and export to Anki.
 - [mpv](https://mpv.io/) — powerful multi-platform video player extensible via scripts.
 
-## Mobile
+## :iphone: Mobile
 - [AnkiMobile Flashcards - App Store](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) — the official version of Anki for iOS
 - [AnkiDroid Flashcards - Google Play](https://play.google.com/store/apps/details?id=com.ichi2.anki) — Anki for Android.
 - [Jjidoujisho](https://github.com/lrorpilla/jidoujisho) — a full-featured immersion language learning suite for mobile.
 
-# Guides and how-tos
+# :information_source: Guides and how-tos
 - [Anki Settings: A Complete Guide and Recommended Settings For Medical School - Zach Highley](https://zhighley.com/anki-settings/)
 - [Anki, Yomichan and Mining - Tatsumoto](https://tatsumoto-ren.github.io/blog/table-of-contents.html)
 - [Anki, Yomichan and Mining - Animecards](https://animecards.site/)
 
-# Dictionaries
+# :notebook: Dictionaries
 ## Yomichan
 - [Default Yomichan Dictionaries for Japanese - FooSoft Productions](https://foosoft.net/projects/yomichan/index.html#dictionaries)
 - [Yomichan Dictionary Collection - Shoui](https://learnjapanese.link/dictionaries)
 ## Tools
 - [pyglossary](https://github.com/ilius/pyglossary) —  A tool for converting between dictionary formats including Yomichan.
 
-# Text
+# :book: Text
 - [Flow](https://www.flowoss.com/) — browser-based ePub reader, which allows for using Yomichan.
 - [LeIm](https://chrome.google.com/webstore/detail/leim/gbfkhhfaafkedcjielnibpdhpdciognd) — browser extension with pop-up translation and word statistics.
 
 # OCR, manga, comics
 - [Mokuro](https://github.com/kha-white/mokuro) — read Japanese manga inside browser with selectable text.
 
-# Video
+# :tv: Video
 ## Standalone
 - [Memento](https://github.com/ripose-jp/Memento) — an mpv-based video player for studying Japanese with Yomichan support.
 
@@ -54,14 +54,14 @@ There is no goal to list the *sources* of media for immersion.
 - [Migaku](https://www.migaku.io/) — toolbox.
 - [LingQ](https://www.lingq.com) — toolbox.
 
-# Games
+# :video_game: Games
 - [Game2Text](https://github.com/mathewthe2/Game2Text) — complete toolbox for gamifying language learning.
 
 # System-wide
 - LookUpAnyApp — system-wide pop-up dictionary.
 - [Kamite](https://github.com/fauu/Kamite) — a desktop language immersion companion for learners of Japanese.
 
-# Finding input for your level
+# :chart_with_upwards_trend: Finding input for your level
 ## Japanese
 - [JPDB](https://jpdb.io/) — media by difficulty with extensive vocabulary statistics.
 - [Natively](https://learnnatively.com/) — book-reading community for Japanese language learners, by difficulty level.

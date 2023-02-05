@@ -64,4 +64,4 @@ There is no goal to list the *sources* of media for immersion.
 # Finding input for your level
 ## Japanese
 - [JPDB](https://jpdb.io/) — media by difficulty with extensive vocabulary statistics.
-- [Natively | The book-reading community for Japanese language learners](https://learnnatively.com/) — media by difficulty level.
+- [Natively](https://learnnatively.com/) — book-reading community for Japanese language learners, by difficulty level.

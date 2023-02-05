@@ -65,3 +65,14 @@ There is no goal to list the *sources* of media for immersion.
 ## Japanese
 - [JPDB](https://jpdb.io/) — media by difficulty with extensive vocabulary statistics.
 - [Natively](https://learnnatively.com/) — book-reading community for Japanese language learners, by difficulty level.
+
+# Example banks
+## Many languages
+- [YouGlish](https://youglish.com/) — search words in YouTube videos.
+- [Google Ngram Viewer](https://books.google.com/ngrams/) — search words in Google Books.
+- [Centro virtual Cervantes. Refranero Multilingüe](https://cvc.cervantes.es/lengua/refranero/Default.aspx) — proverbs in many languages and their translation to Spanish.
+## Japanese
+- [用例.jp 日本語 例文検索帳](https://yourei.jp/) — search Japanese sentences.
+- [Massif](https://massif.la/ja) — search Japanese sentences.
+## Russian
+- [Национальный корпус русского языка](https://ruscorpora.ru/) — national corpora of the Russian language.

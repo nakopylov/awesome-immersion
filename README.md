@@ -8,8 +8,8 @@ There is no goal to list the *sources* of media for immersion.
 # :beginner: Essential tools
 ## Desktop
 - [Anki: powerful, intelligent flashcards](https://apps.ankiweb.net/) — the first choice software for spaced repetition.
-- [Anki-Connect - FooSoft Productions](https://foosoft.net/projects/anki-connect/) — Anki Desktop add-on to interact with other software such as...
-- [Yomichan - FooSoft Productions](https://foosoft.net/projects/yomichan/) — browser extension with a pop-up dictionary and export to Anki.
+- [Anki-Connect](https://foosoft.net/projects/anki-connect/) — Anki Desktop add-on to interact with other software such as...
+- [Yomichan](https://foosoft.net/projects/yomichan/) — browser extension with a pop-up dictionary and export to Anki.
 - [GoldenDict](https://github.com/xiaoyifang/goldendict) — actively maintained fork of GoldenDict, supporting multiple dictionary formats (StarDict, Babylon, Lingvo, Dictd) and online dictionaries and export to Anki.
 - [mpv](https://mpv.io/) — powerful multi-platform video player extensible via scripts.
 
@@ -25,7 +25,7 @@ There is no goal to list the *sources* of media for immersion.
 
 # :notebook: Dictionaries
 ## Yomichan
-- [Default Yomichan Dictionaries for Japanese - FooSoft Productions](https://foosoft.net/projects/yomichan/index.html#dictionaries)
+- [Default Yomichan Dictionaries for Japanese](https://foosoft.net/projects/yomichan/index.html#dictionaries)
 - [Yomichan Dictionary Collection - Shoui](https://learnjapanese.link/dictionaries)
 ## Tools
 - [pyglossary](https://github.com/ilius/pyglossary) —  A tool for converting between dictionary formats including Yomichan.

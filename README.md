@@ -12,6 +12,7 @@ There is no goal to list the *sources* of media for immersion.
 - [Yomichan](https://foosoft.net/projects/yomichan/) — browser extension with a pop-up dictionary and export to Anki.
 - [GoldenDict](https://github.com/xiaoyifang/goldendict) — actively maintained fork of GoldenDict, supporting multiple dictionary formats (StarDict, Babylon, Lingvo, Dictd) and online dictionaries and export to Anki.
 - [mpv](https://mpv.io/) — powerful multi-platform video player extensible via scripts.
+- [VocabSieve](https://github.com/FreeLanguageTools/vocabsieve) — desktop Yomichan-like tool for many languages.
 
 ## :iphone: Mobile
 - [AnkiMobile Flashcards - App Store](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) — the official version of Anki for iOS

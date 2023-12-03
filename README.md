@@ -10,6 +10,7 @@ There is no goal to list the *sources* of media for immersion.
 - [Tatsumoto Ren - Anki, Yomichan and Mining](https://tatsumoto-ren.github.io/blog/table-of-contents.html)
 - [Animecards - Anki, Yomichan and Mining](https://animecards.site/)
 - [TheMoeWay - "You can learn how to learn Japanese properly here"](https://learnjapanese.moe/)
+- [Xelieu - Lazy Guide "for people who don't want to bother customizing their settings or knowing stuff technically"](https://xelieu.github.io/jp-lazy-guide/)
 
 # :beginner: Essential tools
 ## Desktop

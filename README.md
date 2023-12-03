@@ -58,8 +58,12 @@ There is no goal to list the *sources* of media for immersion.
 - [LingQ](https://www.lingq.com) — toolbox.
 
 # :book: Books, manga, comics, and OCR
-- [Mokuro](https://github.com/kha-white/mokuro) — read Japanese manga inside browser with selectable text.
-- [Flow](https://www.flowoss.com/) — browser-based ePub reader, which allows for using pop-up dictionaries like Yomichan forks.
+- [ttsu](https://github.com/ttu-ttu/ebook-reader) - e-book reader that supports Yomichan forks.
+- [Flow](https://www.flowoss.com/) — browser-based ePub reader that supports Yomichan fork.
+- [Manga-OCR](https://github.com/kha-white/manga-ocr)
+  - [Cloe](https://github.com/blueaxis/Cloe) - reader.
+  - [Poricom](https://github.com/blueaxis/Poricom) - reader.
+  - [Mokuro](https://github.com/kha-white/mokuro) — read Japanese manga inside browser with selectable text.
 - [LeIm](https://chrome.google.com/webstore/detail/leim/gbfkhhfaafkedcjielnibpdhpdciognd) — browser extension with pop-up translation and word statistics.
 
 # :notebook: Dictionaries

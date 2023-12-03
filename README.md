@@ -23,14 +23,15 @@ There is no goal to list the *sources* of media for immersion.
 - [Jjidoujisho](https://github.com/lrorpilla/jidoujisho) — a full-featured immersion language learning suite for mobile.
 
 # Mining
-## Browser
+## Browser-based
 - ~~[Yomichan](https://foosoft.net/projects/yomichan/)~~ — browser extension with a pop-up dictionary and export to Anki; not maintained anymore.
   - [Rikaitain](https://github.com/Ajatt-Tools/rikaitan) - fork of Yomichan by [Ajatt-Tools](https://github.com/Ajatt-Tools).
   - [Yomitan](https://github.com/themoeway/yomitan) - fork of Yomichan by [TheMoeWay](https://github.com/themoeway).
   - [Yezichak](https://github.com/StefanVukovic99/yezichak) - fork for languages besides Japanese.
-- [VocabSieve](https://github.com/FreeLanguageTools/vocabsieve) — desktop Yomichan-like tool for many languages.
+- [10ten](https://github.com/birchill/10ten-ja-reader) - hover-over dictionary.
 
 ## System-wide
+- [VocabSieve](https://github.com/FreeLanguageTools/vocabsieve) — desktop Yomichan-like tool for many languages.
 - [Kamite](https://github.com/fauu/Kamite) — a desktop language immersion companion for learners of Japanese.
 - [YomiNinja](https://github.com/matt-m-o/YomiNinja) - application for extracting text from any type of visual content.
 

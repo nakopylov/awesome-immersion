@@ -8,9 +8,12 @@ There is no goal to list the *sources* of media for immersion.
 # :beginner: Essential tools
 ## Desktop
 - [Anki: powerful, intelligent flashcards](https://apps.ankiweb.net/) — the first choice software for spaced repetition.
-- [Anki-Connect](https://foosoft.net/projects/anki-connect/) — Anki Desktop add-on to interact with other software such as...
-- [Yomichan](https://foosoft.net/projects/yomichan/) — browser extension with a pop-up dictionary and export to Anki.
-- [GoldenDict](https://github.com/xiaoyifang/goldendict) — actively maintained fork of GoldenDict, supporting multiple dictionary formats (StarDict, Babylon, Lingvo, Dictd) and online dictionaries and export to Anki.
+- [Anki-Connect](https://foosoft.net/projects/anki-connect/) — Anki Desktop add-on to interact with other software.
+- ~~[Yomichan](https://foosoft.net/projects/yomichan/)~~ — browser extension with a pop-up dictionary and export to Anki; not maintained anymore.
+  - [Rikaitain](https://github.com/Ajatt-Tools/rikaitan) - fork of Yomichan by [Ajatt-Tools](https://github.com/Ajatt-Tools).
+  - [Yomitan](https://github.com/themoeway/yomitan) - fork of Yomichan by [TheMoeWay](https://github.com/themoeway).
+  - [Yezichak](https://github.com/StefanVukovic99/yezichak) - fork for languages besides Japanese.
+- [GoldenDict NG](https://github.com/xiaoyifang/goldendict-g) — actively maintained fork of GoldenDict, supporting multiple dictionary formats (StarDict, Babylon, Lingvo, Dictd) and online dictionaries and export to Anki.
 - [mpv](https://mpv.io/) — powerful multi-platform video player extensible via scripts.
 - [VocabSieve](https://github.com/FreeLanguageTools/vocabsieve) — desktop Yomichan-like tool for many languages.
 
@@ -32,7 +35,7 @@ There is no goal to list the *sources* of media for immersion.
 - [pyglossary](https://github.com/ilius/pyglossary) —  A tool for converting between dictionary formats including Yomichan.
 
 # :book: Text
-- [Flow](https://www.flowoss.com/) — browser-based ePub reader, which allows for using Yomichan.
+- [Flow](https://www.flowoss.com/) — browser-based ePub reader, which allows for using pop-up dictionaries like Yomichan forks.
 - [LeIm](https://chrome.google.com/webstore/detail/leim/gbfkhhfaafkedcjielnibpdhpdciognd) — browser extension with pop-up translation and word statistics.
 
 # OCR, manga, comics

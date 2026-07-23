@@ -34,6 +34,7 @@ There is no goal to list the *sources* of media for immersion.
 ## System-wide
 - [VocabSieve](https://github.com/FreeLanguageTools/vocabsieve) — desktop Yomichan-like tool for many languages.
 - [Kamite](https://github.com/fauu/Kamite) — a desktop language immersion companion for learners of Japanese.
+- [mLearn](https://github.com/adrianvla/mLearn) — cross-platform desktop immersion app with interactive subtitles, one-click Anki cards, OCR (incl. manga), and built-in SRS.
 - [YomiNinja](https://github.com/matt-m-o/YomiNinja) - application for extracting text from any type of visual content.
 
 ## :video_game: Games

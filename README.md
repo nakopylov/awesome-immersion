@@ -29,6 +29,7 @@ There is no goal to list the *sources* of media for immersion.
   - [Rikaitain](https://github.com/Ajatt-Tools/rikaitan) - fork of Yomichan by [Ajatt-Tools](https://github.com/Ajatt-Tools).
   - [Yomitan](https://github.com/themoeway/yomitan) - fork of Yomichan by [TheMoeWay](https://github.com/themoeway).
   - [Yezichak](https://github.com/StefanVukovic99/yezichak) - fork for languages besides Japanese.
+  - [YuzuLingo](https://www.yuzulingo.com) — browser extension that runs local OCR over video hardsubs (YouTube, Bilibili) to enable Yomitan/popup dictionary lookups.
 - [10ten](https://github.com/birchill/10ten-ja-reader) - hover-over dictionary.
 
 ## System-wide

@@ -22,6 +22,7 @@ There is no goal to list the *sources* of media for immersion.
 - [AnkiMobile Flashcards - App Store](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) — the official version of Anki for iOS
 - [AnkiDroid Flashcards - Google Play](https://play.google.com/store/apps/details?id=com.ichi2.anki) — Anki for Android.
 - [Jjidoujisho](https://github.com/lrorpilla/jidoujisho) — a full-featured immersion language learning suite for mobile.
+- [DualSub Replay](https://github.com/hoangkien1703/dual-sub-replay) — free, open-source Android app for YouTube immersion: dual subtitles, one-tap sentence replay, pop-up word lookup with grammar for Japanese, Chinese and English, and sending cards to AnkiDroid.
 
 # Mining
 ## Browser-based

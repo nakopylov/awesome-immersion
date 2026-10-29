@@ -58,6 +58,7 @@ There is no goal to list the *sources* of media for immersion.
 - [AppForLanguage](https://appforlanguage.com/) — toolbox.
 - [Migaku](https://www.migaku.io/) — toolbox.
 - [LingQ](https://www.lingq.com) — toolbox.
+- [Flamigo](https://flamigo.co) — swaps words of the language you learn into the news, blogs and video captions you follow; tap to save, spaced-repetition practice.
 
 # :book: Books, manga, comics, and OCR
 - [ttsu](https://github.com/ttu-ttu/ebook-reader) - e-book reader that supports Yomichan forks.

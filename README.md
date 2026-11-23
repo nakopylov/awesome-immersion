@@ -30,6 +30,7 @@ There is no goal to list the *sources* of media for immersion.
   - [Yomitan](https://github.com/themoeway/yomitan) - fork of Yomichan by [TheMoeWay](https://github.com/themoeway).
   - [Yezichak](https://github.com/StefanVukovic99/yezichak) - fork for languages besides Japanese.
 - [10ten](https://github.com/birchill/10ten-ja-reader) - hover-over dictionary.
+- [Inputly](https://github.com/joaquinmuzzi/Inputly) — browser extension that counts immersion time in the language you learn: detects the language of each YouTube video, counts Netflix and Crunchyroll by audio track, and keeps your data in the browser.
 
 ## System-wide
 - [VocabSieve](https://github.com/FreeLanguageTools/vocabsieve) — desktop Yomichan-like tool for many languages.
